@@ -1,74 +1,148 @@
-import { Image, StyleSheet, Platform } from 'react-native';
+import React, { useEffect, useState } from "react";
+import {
+  FlatList,
+  Text,
+  StyleSheet,
+  TouchableOpacity,
+  View,
+  ActivityIndicator,
+  Button,
+} from "react-native";
+import * as Linking from "expo-linking";
 
-import { HelloWave } from '@/components/HelloWave';
-import ParallaxScrollView from '@/components/ParallaxScrollView';
-import { ThemedText } from '@/components/ThemedText';
-import { ThemedView } from '@/components/ThemedView';
+// Import the JSON file directly
+import jsonData from "../../assets/data.json";
+
+const ITEMS_PER_PAGE = 10;
 
 export default function HomeScreen() {
+  const [data, setData] = useState<any[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [currentPage, setCurrentPage] = useState(0);
+
+  useEffect(() => {
+    // Simulate a fetch delay
+    const loadData = async () => {
+      try {
+        setData(jsonData);
+      } catch (error) {
+        console.error("Error loading JSON data:", error);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    loadData();
+  }, []);
+
+  const handlePress = (address: string) => {
+    Linking.openURL(address);
+  };
+
+  const renderCard = ({ item }: { item: (typeof jsonData)[0] }) => (
+    <TouchableOpacity
+      style={styles.card}
+      onPress={() => handlePress(item.Address)}>
+      <Text style={styles.title}>{item.Name}</Text>
+      <Text style={styles.subtitle}>{item.Location}</Text>
+    </TouchableOpacity>
+  );
+
+  if (loading) {
+    return (
+      <View style={styles.loadingContainer}>
+        <ActivityIndicator size="large" color="#0000ff" />
+        <Text>Loading...</Text>
+      </View>
+    );
+  }
+
+  // Calculate data for the current page
+  const startIndex = currentPage * ITEMS_PER_PAGE;
+  const endIndex = startIndex + ITEMS_PER_PAGE;
+  const paginatedData = data.slice(startIndex, endIndex);
+
   return (
-    <ParallaxScrollView
-      headerBackgroundColor={{ light: '#A1CEDC', dark: '#1D3D47' }}
-      headerImage={
-        <Image
-          source={require('@/assets/images/partial-react-logo.png')}
-          style={styles.reactLogo}
+    <View style={styles.container}>
+      <FlatList
+        data={paginatedData}
+        keyExtractor={(item, index) => `${item.Name}-${index}`}
+        renderItem={renderCard}
+        contentContainerStyle={styles.listContainer}
+      />
+      <View style={styles.paginationContainer}>
+        <Button
+          title="Previous"
+          onPress={() => setCurrentPage((prev) => Math.max(prev - 1, 0))}
+          disabled={currentPage === 0}
         />
-      }>
-      <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Welcome!</ThemedText>
-        <HelloWave />
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 1: Try it</ThemedText>
-        <ThemedText>
-          Edit <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> to see changes.
-          Press{' '}
-          <ThemedText type="defaultSemiBold">
-            {Platform.select({
-              ios: 'cmd + d',
-              android: 'cmd + m',
-              web: 'F12'
-            })}
-          </ThemedText>{' '}
-          to open developer tools.
-        </ThemedText>
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 2: Explore</ThemedText>
-        <ThemedText>
-          Tap the Explore tab to learn more about what's included in this starter app.
-        </ThemedText>
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 3: Get a fresh start</ThemedText>
-        <ThemedText>
-          When you're ready, run{' '}
-          <ThemedText type="defaultSemiBold">npm run reset-project</ThemedText> to get a fresh{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> directory. This will move the current{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> to{' '}
-          <ThemedText type="defaultSemiBold">app-example</ThemedText>.
-        </ThemedText>
-      </ThemedView>
-    </ParallaxScrollView>
+        <Text style={styles.pageInfo}>{`Page ${currentPage + 1} of ${Math.ceil(
+          data.length / ITEMS_PER_PAGE
+        )}`}</Text>
+        <Button
+          title="Next"
+          onPress={() =>
+            setCurrentPage((prev) =>
+              Math.min(prev + 1, Math.ceil(data.length / ITEMS_PER_PAGE) - 1)
+            )
+          }
+          disabled={endIndex >= data.length}
+        />
+      </View>
+    </View>
   );
 }
 
 const styles = StyleSheet.create({
-  titleContainer: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 8,
+  container: {
+    flex: 1,
+    backgroundColor: "#f5f5f5",
+    paddingHorizontal: 10,
+    paddingTop: 20,
   },
-  stepContainer: {
-    gap: 8,
-    marginBottom: 8,
+  listContainer: {
+    paddingBottom: 20,
   },
-  reactLogo: {
-    height: 178,
-    width: 290,
-    bottom: 0,
-    left: 0,
-    position: 'absolute',
+  loadingContainer: {
+    flex: 1,
+    justifyContent: "center",
+    alignItems: "center",
+    backgroundColor: "#f5f5f5",
+  },
+  card: {
+    backgroundColor: "#ffffff",
+    borderRadius: 12,
+    padding: 20,
+    marginVertical: 8,
+    shadowColor: "#000",
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.2,
+    shadowRadius: 6,
+    elevation: 5,
+    borderLeftWidth: 5,
+    borderLeftColor: "#007BFF",
+  },
+  title: {
+    fontSize: 18,
+    fontWeight: "bold",
+    color: "#333",
+    marginBottom: 5,
+  },
+  subtitle: {
+    fontSize: 14,
+    color: "#666",
+  },
+  paginationContainer: {
+    flexDirection: "row",
+    justifyContent: "space-between",
+    alignItems: "center",
+    padding: 10,
+    backgroundColor: "#ffffff",
+    borderTopWidth: 1,
+    borderColor: "#ddd",
+  },
+  pageInfo: {
+    fontSize: 16,
+    color: "#333",
   },
 });

@@ -1,0 +1,1122 @@
+[
+  {
+    "State": "FCT",
+    "LGA": "Abuja Municipal Area Council",
+    "Name": "Nigeria Institute of Transport Technology (NITT) Conversion Centre",
+    "Address": "\"https://maps.google.com/?q=Plot+487%2C+Asuquo+Okon+Street%2C+Daki-Biyu%2C+Jabi+District%2C+Abuja.\"",
+    "Location": "Plot 487, Asuquo Okon Street, Daki-Biyu, Jabi District, Abuja. "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Ibeju-Lekki",
+    "Name": "Femadec Energy Limited Lagos",
+    "Address": "\"https://maps.google.com/?q=KM+42%2C+Lekki-Epe+Expressway%2C+Majek+Second+Gate+Stop%2C+Abijo+Ibeju%2C+Lekki%2C+Lagos\"",
+    "Location": "KM 42, Lekki-Epe Expressway, Majek Second Gate Stop, Abijo Ibeju, Lekki, Lagos "
+  },
+  {
+    "State": "Kaduna",
+    "LGA": "Kaduna North",
+    "Name": "Rolling Energy Limited Kaduna State",
+    "Address": "\"https://maps.google.com/?q=Plot+16715%2C+Kaduna+Abuja+Expressway%2C+Kakau+Town+Kaduna.\"",
+    "Location": "Plot 16715, Kaduna Abuja Expressway, Kakau Town Kaduna. "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Abuja Municipal Area Council",
+    "Name": "ABG Oil and Gas Limited Abuja",
+    "Address": "\"https://maps.google.com/?q=49FJ%2BG6R+Kubwa+901101%2C+Federal+Capital+Territory+%289.119699%2C+7.379851%2C+Abuja\"",
+    "Location": "49FJ+G6R Kubwa 901101, Federal Capital Territory (9.119699, 7.379851, Abuja "
+  },
+  {
+    "State": "Kaduna",
+    "LGA": "Zaria",
+    "Name": "Nigerian Institute of Transport Technology (NITT) Zaria, Kaduna State",
+    "Address": "\"https://maps.google.com/?q=Basawa+Road%2C+Palladan%2C+Zaria%2C+Kaduna+Conversion+Centre.\"",
+    "Location": "Basawa Road, Palladan, Zaria, Kaduna Conversion Centre. "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Alimosho",
+    "Name": "Automotive Gas Nigeria Services Limited (Auto Gas Nigeria)- Tree of Life Autoworld Limited",
+    "Address": "\"https://maps.google.com/?q=Plot+9%2C+Ikola+Road+Off+Command+Road%2C+Ipaja%2C+Lagos\"",
+    "Location": "Plot 9, Ikola Road Off Command Road, Ipaja, Lagos "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Ikeja",
+    "Name": "Automotive Gas Nigeria Services Limited (Auto Gas Nigeria) - City Mechanic Automobile Limited",
+    "Address": "\"https://maps.google.com/?q=Gate+2%2C+Ladipo+Oluwole+Street+Off+Oba+Akran+Avenue+Ikeja%2C+Lagos\"",
+    "Location": "Gate 2, Ladipo Oluwole Street Off Oba Akran Avenue Ikeja, Lagos "
+  },
+  {
+    "State": "Ogun",
+    "LGA": "Abeokuta South",
+    "Name": "NIPCO Gas Limited Ibafo",
+    "Address": "\"https://maps.google.com/?q=Opposite.+MFM+Prayercity%2C+Lagos+-+Ibadan+Express+Way%2C+Ibafo%2C+Ogun\"",
+    "Location": "Opposite. MFM Prayercity, Lagos - Ibadan Express Way, Ibafo, Ogun "
+  },
+  {
+    "State": "Oyo",
+    "LGA": "Ibarapa Central",
+    "Name": "NIPCO Gas Limited Ibadan",
+    "Address": "\"https://maps.google.com/?q=Mobil+Filling+Station%2C+NR+Toll+Gate%2C+Ibadan-Lagos+Road%2C+Ibadan\"",
+    "Location": "Mobil Filling Station, NR Toll Gate, Ibadan-Lagos Road, Ibadan "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Abuja Municipal Area Council",
+    "Name": "NIPCO Gas Limited Dealer 73",
+    "Address": "\"https://maps.google.com/?q=Plot+622A%2C+Sabon+Lugbe%2C+South-West+Layout%2C+Airport+Road%2C+FCT+Abuja\"",
+    "Location": "Plot 622A, Sabon Lugbe, South-West Layout, Airport Road, FCT Abuja "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Ikorodu",
+    "Name": "MBH Power Limited",
+    "Address": "\"https://maps.google.com/?q=KM+5%2C+Ikotun+Road%2C+Itamope%2C+Ikorodu%2C+Lagos\"",
+    "Location": "KM 5, Ikotun Road, Itamope, Ikorodu, Lagos "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Kosofe",
+    "Name": "Portland Oil and Gas Lagos",
+    "Address": "\"https://maps.google.com/?q=No.1+Ojota+Interchange+Terminal%2C+Bayo+Shodipo%2C+Ojota%2C+Lagos\"",
+    "Location": "No.1 Ojota Interchange Terminal, Bayo Shodipo, Ojota, Lagos "
+  },
+  {
+    "State": "FCT (Federal Capital Territory)",
+    "LGA": "Abuja Municipal Area Council",
+    "Name": "Portland Oil and Gas, Abuja",
+    "Address": "\"https://maps.google.com/?q=913%2C+Obafemi+Awolowo+Way%2C+Utako%2C+Abuja+%0D%0A\"",
+    "Location": "913, Obafemi Awolowo Way, Utako, Abuja "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Ibeju-Lekki",
+    "Name": "Mezovest Limited",
+    "Address": "\"https://maps.google.com/?q=KM+23%2C+Lekki-Epe+Express+Way%2C+Ajah.+Opposite+Kilimanjaro%2C+Beside+Libmot+Motors%2C+by+Abraham+Adesanya+Bus+Stop%2C+Lagos\"",
+    "Location": "KM 23, Lekki-Epe Express Way, Ajah. Opposite Kilimanjaro, Beside Libmot Motors, by Abraham Adesanya Bus Stop, Lagos "
+  },
+  {
+    "State": "Oyo",
+    "LGA": "Oyo West",
+    "Name": "Autoclinic Nigeria Solutions Limited",
+    "Address": "\"https://maps.google.com/?q=NNPC+Service+Station+%28Queen+Elizabeth+II%29+Agodi%2C+Ibadan%2COyo\"",
+    "Location": "NNPC Service Station (Queen Elizabeth II) Agodi, Ibadan,Oyo "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Kosofe",
+    "Name": "Autogig International Resources Ltd",
+    "Address": "\"https://maps.google.com/?q=Plot+144B%2C+Gbagada+Expressway%2C+Gbagada%2C+Lagos\"",
+    "Location": "Plot 144B, Gbagada Expressway, Gbagada, Lagos "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Lagos Mainland",
+    "Name": "Fixit45 (AutoHub)",
+    "Address": "\"https://maps.google.com/?q=10B%2C+Olusoji+Idowu+Street%2C+Ilupeju%2C+Lagos\"",
+    "Location": "10B, Olusoji Idowu Street, Ilupeju, Lagos "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Abuja Municipal Area Council",
+    "Name": "Fixit45 (Taharish)",
+    "Address": "\"https://maps.google.com/?q=Plot+556%2C+Katampe+road%2C+Opposite+Harmony+Court+Estate%2C+Jahi%2C+Abuja+900108%2C+Federal+Capital+Territory+%289.105415%2C+7.448452%29\"",
+    "Location": "Plot 556, Katampe road, Opposite Harmony Court Estate, Jahi, Abuja 900108, Federal Capital Territory (9.105415, 7.448452) "
+  },
+  {
+    "State": "Oyo",
+    "LGA": "Ibarapa Central",
+    "Name": "Automation Autogas Ltd",
+    "Address": "\"https://maps.google.com/?q=Plot+2%2C+Block+7%2C+Podo+Industrial+Village%2C+Ibadan\"",
+    "Location": "Plot 2, Block 7, Podo Industrial Village, Ibadan "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Oshodi-Isolo",
+    "Name": "Dana Motors Ltd",
+    "Address": "\"https://maps.google.com/?q=Dana+Motors+Ltd+Kia+Plaza%2C+117-+Oshodi+Apapa+Expressway%2C+Isolo%2C+Lagos\"",
+    "Location": "Dana Motors Ltd Kia Plaza, 117- Oshodi Apapa Expressway, Isolo, Lagos "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Ikorodu",
+    "Name": "Autogas Africa Logistics Limited (Teekolas Klassic Auto Repairs Limited)",
+    "Address": "\"https://maps.google.com/?q=13%2C+Adeleke+Kuti+Street%2C+Off+Cele+Bus+Stop%2C+Ijede+Road%2C+Ikorodu%2C+Lagos\"",
+    "Location": "13, Adeleke Kuti Street, Off Cele Bus Stop, Ijede Road, Ikorodu, Lagos "
+  },
+  {
+    "State": "Kogi",
+    "LGA": "Okene",
+    "Name": "Mono Energy",
+    "Address": "\"https://maps.google.com/?q=Phase+3+Felele%2C+Adjacent+NNPCL+Mega+Station%2C+Abuja+-+Okene+Express+Way%2C+Lokoja%2C+Kogi.\"",
+    "Location": "Phase 3 Felele, Adjacent NNPCL Mega Station, Abuja - Okene Express Way, Lokoja, Kogi. "
+  },
+  {
+    "State": "Nasarawa",
+    "LGA": "Karu",
+    "Name": "ABG Oil and Gas Limited",
+    "Address": "\"https://maps.google.com/?q=Abuja+-+Keffi+Express+Road%2C+Koroduma+Karu%2C+Nasarawa+State\"",
+    "Location": "Abuja - Keffi Express Road, Koroduma Karu, Nasarawa State "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Abuja Municipal Area Council",
+    "Name": "Bovas Autogas Conversion Workshop ",
+    "Address": "\"https://maps.google.com/?q=Herbert+Macaulay+Way%2C+Wuse+Zone+5%2C+Abuja\"",
+    "Location": "Herbert Macaulay Way, Wuse Zone 5, Abuja "
+  },
+  {
+    "State": "Kaduna",
+    "LGA": "Kaduna South",
+    "Name": "Behin - Markpoint",
+    "Address": "\"https://maps.google.com/?q=No.8%2C+Michibi+Road%2C+Off+Pandrive%2C+Kakuri+Industrial%2C+Kaduna+++++++++++++++++++++++\"",
+    "Location": "No.8, Michibi Road, Off Pandrive, Kakuri Industrial, Kaduna "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Eti Osa",
+    "Name": "Automotive Gas Nigeria Services Limited (Autogas Nigeria)- Jay Technologies Autos Limited",
+    "Address": "\"https://maps.google.com/?q=Plot+102%2C+Opp+Azkol+Filling+Station%2C+Langbansa%2C+Addo+off+Badore%2C+Ajah%2C+Lagos\"",
+    "Location": "Plot 102, Opp Azkol Filling Station, Langbansa, Addo off Badore, Ajah, Lagos "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Ojo",
+    "Name": "Automotive Gas Nigeria Services Limited (Autogas Nigeria)- Kwenexster Limited",
+    "Address": "\"https://maps.google.com/?q=1+Cocoa+Industries+Road%2C+Akilo+Road%2C+Off+Ogba%2C+Lagos\"",
+    "Location": "1 Cocoa Industries Road, Akilo Road, Off Ogba, Lagos "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "PCNGI",
+    "Address": "\"https://maps.google.com/?q=PCNGI+CENTRAL+AREA\"",
+    "Location": "PCNGI CENTRAL AREA "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Gwagwalada",
+    "Name": "Behin - Markpoint ",
+    "Address": "\"https://maps.google.com/?q=Suleja+-+Zuba+Road%2C+Abuja%0D%0A\"",
+    "Location": "Suleja - Zuba Road, Abuja "
+  },
+  {
+    "State": "Oyo",
+    "LGA": "Ibadan North-West",
+    "Name": "Bovas Oyo",
+    "Address": "\"https://maps.google.com/?q=Ajibode+Retail+Outlet%2C+Along+U.I.+Ojo+Road%2C+Ibadan%0D%0A\"",
+    "Location": "Ajibode Retail Outlet, Along U.I. Ojo Road, Ibadan "
+  },
+  {
+    "State": "Oyo",
+    "LGA": "Ibadan North-East",
+    "Name": "Autogas Africa Logistics Limited (Autotel Automotive Solutions)",
+    "Address": "\"https://maps.google.com/?q=NCWS+Complex%2C+Beside+Hexagon%2C+Along+Sango+U.I+Road%2C+Samonda%2C+Ibadan%0D%0A\"",
+    "Location": "NCWS Complex, Beside Hexagon, Along Sango U.I Road, Samonda, Ibadan "
+  },
+  {
+    "State": "Oyo",
+    "LGA": "Ibadan North",
+    "Name": "Autogas Africa Logistics Limited (His Divine Favour Automobile Technologies)",
+    "Address": "\"https://maps.google.com/?q=Motor+Transport+Maintenance+Yard%2C+University+of+Ibadan%2C+Oyo+State%0D%0A\"",
+    "Location": "Motor Transport Maintenance Yard, University of Ibadan, Oyo State "
+  },
+  {
+    "State": "Ogun",
+    "LGA": "Ado-Odo/Ota",
+    "Name": "Ade - Dam Auto Solutions ",
+    "Address": "\"https://maps.google.com/?q=Mobile+House+Idiroko+Road%2C+Obasanjo+Bus+Stop+Sango-Ota%0D%0A\"",
+    "Location": "Mobile House Idiroko Road, Obasanjo Bus Stop Sango-Ota "
+  },
+  {
+    "State": "Ogun",
+    "LGA": "Abeokuta North",
+    "Name": "Nexgen Automotive Repair",
+    "Address": "\"https://maps.google.com/?q=37+Olorunsogo+%2C+Abiola+Way%2C+Abeokuta%0D%0A\"",
+    "Location": "37 Olorunsogo , Abiola Way, Abeokuta "
+  },
+  {
+    "State": "Ogun",
+    "LGA": "Abeokuta North",
+    "Name": "Nigerian Gas Transport Solutions",
+    "Address": "\"https://maps.google.com/?q=OPIC+Building+OPIC+Roundabout%2C+Ibara%2C+Abeokuta%2C+Ogun+State%0D%0A\"",
+    "Location": "OPIC Building OPIC Roundabout, Ibara, Abeokuta, Ogun State "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Ikeja",
+    "Name": "Black White Energy",
+    "Address": "\"https://maps.google.com/?q=SBN+Compound%2C+Plot+9%2C+Block+A+Surulere+Industrial+State%2C+Ikeja%2C+Lagos+%0D%0A\"",
+    "Location": "SBN Compound, Plot 9, Block A Surulere Industrial State, Ikeja, Lagos "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Autogas Africa Logistics Limited (Sim\u00e7o Auto Diagnosis And Repair Centre)",
+    "Address": "\"https://maps.google.com/?q=Beside+Dunamis+Church+International+Lugbe+Airport+Road\"",
+    "Location": "Beside Dunamis Church International Lugbe Airport Road "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Autogas Africa Logistics Limited (Triple D Auto Place)",
+    "Address": "\"https://maps.google.com/?q=Plot+558%2C+Katampe+Road%2C+Jahi+District%2C+Abuja\"",
+    "Location": "Plot 558, Katampe Road, Jahi District, Abuja "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Automobiles R Us Nig Ltd (ARUS)",
+    "Address": "\"https://maps.google.com/?q=NNPC+filling+station%2C+Opposite+Dunamis+Church+Lugbe+airport+road%2C++Abuja\"",
+    "Location": "NNPC filling station, Opposite Dunamis Church Lugbe airport road, Abuja "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Automotive Gas Nigeria Services Limited (Autogas Nigeria)- Aaz Autocare Limited",
+    "Address": "\"https://maps.google.com/?q=Plot+1155%2C+69+Road%2C+Gwarinpa+Estate%2C+9000108+Opp+House+10+FCT+Abuja\"",
+    "Location": "Plot 1155, 69 Road, Gwarinpa Estate, 9000108 Opp House 10 FCT Abuja "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Automotive Gas Nigeria Services Limited (Autogas Nigeria)- Auto Spa",
+    "Address": "\"https://maps.google.com/?q=Plot+92%2C+CAD+Zone+B15%2C+Behind+Mabushi+Ultramodern+Market%2C+Katempe+Road%2C+Jahi+District+Abuja\"",
+    "Location": "Plot 92, CAD Zone B15, Behind Mabushi Ultramodern Market, Katempe Road, Jahi District Abuja "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Automotive Gas Nigeria Services Limited (Autogas Nigeria)-Esides Auto Care Limited",
+    "Address": "\"https://maps.google.com/?q=Plot+PFS+5%2C+Kubwa+Expressway+Kubwa\"",
+    "Location": "Plot PFS 5, Kubwa Expressway Kubwa "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Automotive Gas Nigeria Services Limited (Autogas Nigeria)- Exotic Multi Synergy",
+    "Address": "\"https://maps.google.com/?q=Plot+954%2C+David+Ejoor+Crescent%2C+Opp+Emerald+Court%2C+Apo+FCT%2C+Abuja\"",
+    "Location": "Plot 954, David Ejoor Crescent, Opp Emerald Court, Apo FCT, Abuja "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Automotive Gas Nigeria Services Limited (Autogas Nigeria)- Smartcog Auto Service Centre",
+    "Address": "\"https://maps.google.com/?q=Plot+221+Martins+Ejembi+Crescent%2C+Apo+Dutse%2C+Abuja\"",
+    "Location": "Plot 221 Martins Ejembi Crescent, Apo Dutse, Abuja "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "C &amp; L Smartenergy Solutions Nig. Ltd",
+    "Address": "\"https://maps.google.com/?q=Alhaji+Umaru+Ngelzarma%28AUN%29+Petrol+Station%2C+Lokogoma%2C+Abuja\"",
+    "Location": "Alhaji Umaru Ngelzarma(AUN) Petrol Station, Lokogoma, Abuja "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Cng Tech/ Zitaj Automobile",
+    "Address": "\"https://maps.google.com/?q=Plot+C15+Sabon+Lugbe+by+Wood+and+Frame%2C+Airport+Road+Abuja%2C+%288.946516%2C+7.328978%29\"",
+    "Location": "Plot C15 Sabon Lugbe by Wood and Frame, Airport Road Abuja, (8.946516, 7.328978) "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Diametrics Limited",
+    "Address": "\"https://maps.google.com/?q=Calypso+Garden%2C+Sokono+st%2C+off+Adetokunbo+Ademola+Wuse+2%2C+Abuja\"",
+    "Location": "Calypso Garden, Sokono st, off Adetokunbo Ademola Wuse 2, Abuja "
+  },
+  {
+    "State": "Rivers",
+    "LGA": "Port Harcourt",
+    "Name": "Femadec Energy Rivers",
+    "Address": "\"https://maps.google.com/?q=20%2C+Orogbum+Cresent+GRA+Phase+2+Port+Harcourt%2C+Rivers+State\"",
+    "Location": "20, Orogbum Cresent GRA Phase 2 Port Harcourt, Rivers State "
+  },
+  {
+    "State": "Rivers",
+    "LGA": "Port Harcourt",
+    "Name": "Femadec Energy Rivers",
+    "Address": "\"https://maps.google.com/?q=Plot+38%2C+Stadium+Road+-+Rumuola+Link+Road%2C+Adjacent+NNPC+station%2C+Port+Harcourt%2C+Rivers+State.\"",
+    "Location": "Plot 38, Stadium Road - Rumuola Link Road, Adjacent NNPC station, Port Harcourt, Rivers State. "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Ibeju-Lekki",
+    "Name": "Fix It N Go",
+    "Address": "\"https://maps.google.com/?q=1%2C+Prof+Olagoke+Olabisi%2C+off+Folashade+Ave%2C+Lekki+Peninsular%2C+Lagos.\"",
+    "Location": "1, Prof Olagoke Olabisi, off Folashade Ave, Lekki Peninsular, Lagos. "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Ikorodu",
+    "Name": "Fixit45 Lagos",
+    "Address": "\"https://maps.google.com/?q=143%2C+Obafemi+Awolowo+Road%2C+Ikorodu%2C+Lagos\"",
+    "Location": "143, Obafemi Awolowo Road, Ikorodu, Lagos "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Fixit45 Abuja",
+    "Address": "\"https://maps.google.com/?q=Plot+PFS+5%2C+Kubwa+Express+Way+Opp.+Second+Gate%2C+NNPC+Juncton+Kubwa%2C+FCT-Abuja+%289.140247%2C+7.321147%29\"",
+    "Location": "Plot PFS 5, Kubwa Express Way Opp. Second Gate, NNPC Juncton Kubwa, FCT-Abuja (9.140247, 7.321147) "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Galembic Int\u2019l Ltd",
+    "Address": "\"https://maps.google.com/?q=A.Y.M+Ashafa+Petrol+Station+Plot+968+Wuye+behind+Family+Worship+Center%2C+Wuye+District%2C+FCT+ABUJA\"",
+    "Location": "A.Y.M Ashafa Petrol Station Plot 968 Wuye behind Family Worship Center, Wuye District, FCT ABUJA "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Grid7 Ltd",
+    "Address": "\"https://maps.google.com/?q=Plot+1071%2C+Behind+NASENI+Idu+Industrial+Area%2C+Abuja%2C+FCT\"",
+    "Location": "Plot 1071, Behind NASENI Idu Industrial Area, Abuja, FCT "
+  },
+  {
+    "State": "Edo",
+    "LGA": "Uhunmwonde",
+    "Name": "Nipco Gas Ltd Eyean",
+    "Address": "\"https://maps.google.com/?q=Km+7+Benin+Auchi+Rd%2C+Adjacent+Zafike+Hotel%2C+Eyaen%2C+Benin+City\"",
+    "Location": "Km 7 Benin Auchi Rd, Adjacent Zafike Hotel, Eyaen, Benin City "
+  },
+  {
+    "State": "Edo",
+    "LGA": "Uhunmwonde",
+    "Name": "Nipco Gas Ltd Sapele Road ",
+    "Address": "\"https://maps.google.com/?q=Ku+Plaza%2C+Benin+Sapele+Rd%2C+Opposite+Pz+Junction%2C+Benin+City\"",
+    "Location": "Ku Plaza, Benin Sapele Rd, Opposite Pz Junction, Benin City "
+  },
+  {
+    "State": "Delta",
+    "LGA": "Sapele",
+    "Name": "Nipco Gas Ltd Warri",
+    "Address": "\"https://maps.google.com/?q=Warri-Sapele+Rd%2C+Okolovu\"",
+    "Location": "Warri-Sapele Rd, Okolovu "
+  },
+  {
+    "State": "Kwara",
+    "LGA": "Ilorin West",
+    "Name": "Rolling Energy Limited Kwara State",
+    "Address": "\"https://maps.google.com/?q=Kwara+Express%2C+FH5G%2B3R5%2C+Muritala+Muhammed+Way+Ilorin+240101%2C+Kwara+State.\"",
+    "Location": "Kwara Express, FH5G+3R5, Muritala Muhammed Way Ilorin 240101, Kwara State. "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Rt Briscoe Nigeria Plc Abuja",
+    "Address": "\"https://maps.google.com/?q=Plot+410+Cadastral+zone%2C+Opp+NNPC+Filling+Station+Airport+Junction++Jabi+%289.06413%2C+7.41222%29\"",
+    "Location": "Plot 410 Cadastral zone, Opp NNPC Filling Station Airport Junction Jabi (9.06413, 7.41222) "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Salma Auto",
+    "Address": "\"https://maps.google.com/?q=By+AFDIN+Filling+Station%2C+opp+House+on+the+rock+church.+Airport%C2%A0road%C2%A0ABUJA.++%289.029803%2C+7.437156%29\"",
+    "Location": "By AFDIN Filling Station, opp House on the rock church. Airport road ABUJA. (9.029803, 7.437156) "
+  },
+  {
+    "State": "Rivers",
+    "LGA": "Port Harcourt",
+    "Name": "Total Support",
+    "Address": "\"https://maps.google.com/?q=Rumuokwurusi%2C+Elelenwa+Port+Harcourt%2C+Rivers+State.\"",
+    "Location": "Rumuokwurusi, Elelenwa Port Harcourt, Rivers State. "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Badagry",
+    "Name": "Automotive Gas Nigeria Services Limited (Autogas Nigeria)- Formula 1Autozone Nigeria Limited",
+    "Address": "\"https://maps.google.com/?q=KM+25+Lekki-Epe+Expressway%2C+Okoafo%2C+Lagos\"",
+    "Location": "KM 25 Lekki-Epe Expressway, Okoafo, Lagos "
+  },
+  {
+    "State": "Edo",
+    "LGA": "Esan Central",
+    "Name": "Automotive Gas Nigeria Services Limited (Autogas Nigeria)- See-Auto Workshop",
+    "Address": "\"https://maps.google.com/?q=Airport+Road+by+Airport+Gate+Benin+City\"",
+    "Location": "Airport Road by Airport Gate Benin City "
+  },
+  {
+    "State": "Delta",
+    "LGA": "Aniocha South",
+    "Name": "Automotive Gas Nigeria Services Limited (Autogas Nigeria)- Autolubricity Nigeria Limited",
+    "Address": "\"https://maps.google.com/?q=Capital+territory+City+Gate%2C+Benin+Onitsha+Expressway%2C+Azagba-Ogwashi%2FIssele-Azagba%2C+Asaba\"",
+    "Location": "Capital territory City Gate, Benin Onitsha Expressway, Azagba-Ogwashi/Issele-Azagba, Asaba "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Abaji",
+    "Name": "Bovas Abuja",
+    "Address": "\"https://maps.google.com/?q=AUST+retail+outlet%2C+along+Airport+road%2C+Abuja%2C+FCT\"",
+    "Location": "AUST retail outlet, along Airport road, Abuja, FCT "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Bovas Abuja",
+    "Address": "\"https://maps.google.com/?q=Wuse+retail+outlet%2C+Wuse+road%2C+Abuja%2C+FCT\"",
+    "Location": "Wuse retail outlet, Wuse road, Abuja, FCT "
+  },
+  {
+    "State": "Delta",
+    "LGA": "Aniocha North",
+    "Name": "Rt Briscoe Nigeria Plc Delta",
+    "Address": "\"https://maps.google.com/?q=Summit+Road+by+Havilla+Rd+junction%2C+Asaba\"",
+    "Location": "Summit Road by Havilla Rd junction, Asaba "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Ikeja",
+    "Name": "Automotive Gas Nigeria Services Limited (AUTOGAS NIGERIA)- Universal Automotive Training Academy",
+    "Address": "\"https://maps.google.com/?q=54%2C+Ikotun+Idimu+Road%2C+NNPC+Petrol+Station+Opp+Chicken+Republic%2C+Ikotun\"",
+    "Location": "54, Ikotun Idimu Road, NNPC Petrol Station Opp Chicken Republic, Ikotun "
+  },
+  {
+    "State": "Edo",
+    "LGA": "Esan Central",
+    "Name": "Kojo Motors Limited Edo",
+    "Address": "\"https://maps.google.com/?q=105+Benin-Agbor+Road%2C+Ikpoba+Hill%2C+Benin+City%2C+Edo+State\"",
+    "Location": "105 Benin-Agbor Road, Ikpoba Hill, Benin City, Edo State "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Lanre Shittu Motors Ng Ltd",
+    "Address": "\"https://maps.google.com/?q=Plot+1504%2C+Cadzone+BO6%2C+after+Ministry+of+Transportation%2C+Mabushi%2C+FCT%2C+Abuja+\"",
+    "Location": "Plot 1504, Cadzone BO6, after Ministry of Transportation, Mabushi, FCT, Abuja "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Oshodi-Isolo",
+    "Name": "Lanre Shittu Motors Nigeria Limited",
+    "Address": "\"https://maps.google.com/?q=%22Truck+Centre%2C+Lagos.+Plot+C88+Amuwo+Odofin+Commercial+Coker+Bus-Stop%2C+Oshodi+Apapa+Expressway+%0D%0A++%22\"",
+    "Location": "\"Truck Centre, Lagos. Plot C88 Amuwo Odofin Commercial Coker Bus-Stop, Oshodi Apapa Expressway \" "
+  },
+  {
+    "State": "Ekiti",
+    "LGA": "Ado Ekiti",
+    "Name": "National Automotive Design and Development Council Automotive Training Center - Ado Ekiti ",
+    "Address": "\"https://maps.google.com/?q=Ado-Ekiti%2F+KM5+Ilawe+Road%2C+Near+Fresh+Water+International+School%2C+Ado+Ekiti+\"",
+    "Location": "Ado-Ekiti/ KM5 Ilawe Road, Near Fresh Water International School, Ado Ekiti "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Lagos Island",
+    "Name": "Ibile Oil &amp; Gas - Mandilas Group ",
+    "Address": "\"https://maps.google.com/?q=Mandilas+Building%2C+35+Simpson+Street%2C+Lagos+Island\"",
+    "Location": "Mandilas Building, 35 Simpson Street, Lagos Island "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Lagos Mainland",
+    "Name": "Automatic Fit and Energy Limited  ",
+    "Address": "\"https://maps.google.com/?q=1%2C+Prof+Olagoke+Olabisi%2C+Off+Folashade+Awe%2C+Oniru%2C+Lekki\"",
+    "Location": "1, Prof Olagoke Olabisi, Off Folashade Awe, Oniru, Lekki "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Eti-Osa",
+    "Name": "Ibile Oil &amp; Gas - Coscharis Motors Limited",
+    "Address": "\"https://maps.google.com/?q=68A+Adeola+Odeku+St%2C+Victoria+Island\"",
+    "Location": "68A Adeola Odeku St, Victoria Island "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Surulere",
+    "Name": "Ibile Oil &amp; Gas - Ayo-ola Motor Ltd",
+    "Address": "\"https://maps.google.com/?q=129%2C+Bode+Thomas+Street%2C+Surulere%2C\"",
+    "Location": "129, Bode Thomas Street, Surulere, "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Ikeja",
+    "Name": "Ibile Oil &amp; Gas - Truck Masters Limited",
+    "Address": "\"https://maps.google.com/?q=Truckmasters+Close%2C+Opebi\"",
+    "Location": "Truckmasters Close, Opebi "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Kosofe",
+    "Name": "Ibile Oil &amp; Gas - Memda Automobile Turnup &amp; Service",
+    "Address": "\"https://maps.google.com/?q=Plot+18%2C+Muri+Folami+Street%2C+Ogudu+GRA%0D%0A\"",
+    "Location": "Plot 18, Muri Folami Street, Ogudu GRA "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Ikorodu",
+    "Name": "Ibile Oil &amp; Gas - GAC Motor",
+    "Address": "\"https://maps.google.com/?q=KM+15%2C+Ikorodu+Road%0D%0A\"",
+    "Location": "KM 15, Ikorodu Road "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Kosofe",
+    "Name": "Ibile Oil &amp; Gas - HN Auto Center",
+    "Address": "\"https://maps.google.com/?q=Plot+4%2C+Muri+Folami+Street%2C+Ogudu+GRA%0D%0A\"",
+    "Location": "Plot 4, Muri Folami Street, Ogudu GRA "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Ikeja",
+    "Name": "Ibile Oil &amp; Gas - Car Max Auto Centre",
+    "Address": "\"https://maps.google.com/?q=Plot+A2%2C+Billings+Way%2C+Oregun+%E2%80%93+Ikeja%0D%0A\"",
+    "Location": "Plot A2, Billings Way, Oregun \u2013 Ikeja "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Lagos Island",
+    "Name": "CFAO ",
+    "Address": "\"https://maps.google.com/?q=307%2CAkin+Adesola+Victoria+island+\"",
+    "Location": "307,Akin Adesola Victoria island "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Lagos Island",
+    "Name": "Carbon Care ",
+    "Address": "\"https://maps.google.com/?q=43A+Akin+Adesola+Street%2C+Victoria+island\"",
+    "Location": "43A Akin Adesola Street, Victoria island "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Apapa",
+    "Name": "AG Leventis Nigeria LTD.",
+    "Address": "\"https://maps.google.com/?q=2+Wharf+Road%2C+Apapa\"",
+    "Location": "2 Wharf Road, Apapa "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Ikeja",
+    "Name": "Skoda Automobile Nigeria LTD. ",
+    "Address": "\"https://maps.google.com/?q=19%2F21+Oregun+Road%2C+Olusosun%2C+Ikeja+\"",
+    "Location": "19/21 Oregun Road, Olusosun, Ikeja "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Ikeja",
+    "Name": "ASSI &amp; KACHEF Auto services  ",
+    "Address": "\"https://maps.google.com/?q=Plot+3+Billings+way%2C+Industrial+Estate+Road%2C+Oregun%2C+Ikeja\"",
+    "Location": "Plot 3 Billings way, Industrial Estate Road, Oregun, Ikeja "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Lagos Island",
+    "Name": "Arrowhead Automobile ",
+    "Address": "\"https://maps.google.com/?q=35C+Adetokunbo+Ademola+Street%2C+Victoria+Island+\"",
+    "Location": "35C Adetokunbo Ademola Street, Victoria Island "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Ibeju-Lekki",
+    "Name": "Citiwebb Auto Centre",
+    "Address": "\"https://maps.google.com/?q=Plot+21+Admiralty+Way%2C+Lekki+Phase+1%2CLagos\"",
+    "Location": "Plot 21 Admiralty Way, Lekki Phase 1,Lagos "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Epe",
+    "Name": "Germaine Auto centre limited",
+    "Address": "\"https://maps.google.com/?q=4th+Roundabout+Lekki+-Epe+Express-way%2C+Lagoss\"",
+    "Location": "4th Roundabout Lekki -Epe Express-way, Lagoss "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Alimosho",
+    "Name": "Ibile Oil &amp; Gas - Lagos State Technical &amp; Vocational Education Board",
+    "Address": "\"https://maps.google.com/?q=Government+Technical+College+Ikotun+\"",
+    "Location": "Government Technical College Ikotun "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "ASD Motor",
+    "Address": "\"https://maps.google.com/?q=8+Borno+Street%2C+Area+10%2C+Garki%2C+Abuja+\"",
+    "Location": "8 Borno Street, Area 10, Garki, Abuja "
+  },
+  {
+    "State": "Kaduna",
+    "LGA": "Kaduna South",
+    "Name": "Kaura Motor",
+    "Address": "\"https://maps.google.com/?q=AB+2%2C+Nnamdi+Azikiwe+way+Express+Bye-Pass%2C+Kaduna.\"",
+    "Location": "AB 2, Nnamdi Azikiwe way Express Bye-Pass, Kaduna. "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Surulere",
+    "Name": "Kojo Motors Lagos",
+    "Address": "\"https://maps.google.com/?q=59%2C+Rasaq+Balogun+Street+Western+Avenue%2C+Surulere\"",
+    "Location": "59, Rasaq Balogun Street Western Avenue, Surulere "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Kojo Motors Abuja",
+    "Address": "\"https://maps.google.com/?q=Plot+1209.+Cadastral+zone+B06+Mabushi+district%2C+after+VIO+office+Mabushi%2C+Abuja\"",
+    "Location": "Plot 1209. Cadastral zone B06 Mabushi district, after VIO office Mabushi, Abuja "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Abaji",
+    "Name": "Honda Place ",
+    "Address": "\"https://maps.google.com/?q=Plot+581%2C+Central+Business+District%2C+Abuja\"",
+    "Location": "Plot 581, Central Business District, Abuja "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Coscharis Motors ",
+    "Address": "\"https://maps.google.com/?q=Plot+388+Constitution+Avenue%2C+Beside+Grand+Square%2C+Central+Business+District+Abuja+\"",
+    "Location": "Plot 388 Constitution Avenue, Beside Grand Square, Central Business District Abuja "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Elizade Nigeria Limited",
+    "Address": "\"https://maps.google.com/?q=Plot+596+Independence+Avenue%2C+Opp+Bolingo+Hotel%2C+Central+Business+District%2C+Abuja\"",
+    "Location": "Plot 596 Independence Avenue, Opp Bolingo Hotel, Central Business District, Abuja "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Briscoe Auto",
+    "Address": "\"https://maps.google.com/?q=Plot+410+Obafemi+Awolowo+Way%2C+opposite+L.E.A+primary+School%2C+Airport+Junction+Jabi.\"",
+    "Location": "Plot 410 Obafemi Awolowo Way, opposite L.E.A primary School, Airport Junction Jabi. "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": " Nuts &amp; Bolts Auto Services ",
+    "Address": "\"https://maps.google.com/?q=Plot+36+CAD+Zone+B08.+after+Mabushi+Ultra+Modern+Market+Jahi%2C+Abuja\"",
+    "Location": "Plot 36 CAD Zone B08. after Mabushi Ultra Modern Market Jahi, Abuja "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Autoprince Technologies",
+    "Address": "\"https://maps.google.com/?q=Plot+466+Amadu+Bello+Way%2C+after+Dominos+pizza+%2C+Garki+2+Abuja.+\"",
+    "Location": "Plot 466 Amadu Bello Way, after Dominos pizza , Garki 2 Abuja. "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Auto works",
+    "Address": "\"https://maps.google.com/?q=Plot+92+CAD+Zone+B15%2C+near+Mabushi+Ultramodern+Market%2C+Katampe+Rd%2C+Jahi+\"",
+    "Location": "Plot 92 CAD Zone B15, near Mabushi Ultramodern Market, Katampe Rd, Jahi "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Autoprag Service Centre",
+    "Address": "\"https://maps.google.com/?q=28+Katampe+road+Jahi%2C+Opposite+Mabushi+Ultra+Modern+Market+Abuja\"",
+    "Location": "28 Katampe road Jahi, Opposite Mabushi Ultra Modern Market Abuja "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Annapolis Auto Centre",
+    "Address": "\"https://maps.google.com/?q=1074+Airport+road%2C+Opposite+Major+oil+Jabi+Abuja\"",
+    "Location": "1074 Airport road, Opposite Major oil Jabi Abuja "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Autospa",
+    "Address": "\"https://maps.google.com/?q=Plot+92%2C+CAD+Zone+B15%2C+Behind+Mabushi+Ultra+Modern+Market+Katampe+Road%2C+Jahi+\"",
+    "Location": "Plot 92, CAD Zone B15, Behind Mabushi Ultra Modern Market Katampe Road, Jahi "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Pro Car Ltd Abuja",
+    "Address": "\"https://maps.google.com/?q=Plot+28+Katampe+Road%2C+After+Bon+Hotel+Jahi\"",
+    "Location": "Plot 28 Katampe Road, After Bon Hotel Jahi "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "SunRay Auto Place and Services",
+    "Address": "\"https://maps.google.com/?q=Plot+916+Abubakar+Koko+Ave%2C+Opposite+Stella+Maris+School%2C+Life+camp\"",
+    "Location": "Plot 916 Abubakar Koko Ave, Opposite Stella Maris School, Life camp "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Onground Auto care",
+    "Address": "\"https://maps.google.com/?q=Plot+1510%2C+Kaura+District+By+ICC%2FSummit+Bible+Church%2C+behind+Games+Village%2C+Abuja\"",
+    "Location": "Plot 1510, Kaura District By ICC/Summit Bible Church, behind Games Village, Abuja "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Cadon Autos Limited",
+    "Address": "\"https://maps.google.com/?q=68+Adetokunbo+Ademola+Crescent%2Copposite+goodies%2C+Wuse+2+Abuja.\"",
+    "Location": "68 Adetokunbo Ademola Crescent,opposite goodies, Wuse 2 Abuja. "
+  },
+  {
+    "State": "Ogun",
+    "LGA": "Abeokuta",
+    "Name": "Nextgen",
+    "Address": "\"https://maps.google.com/?q=37+Olorunsogo+%2C+Abiola+way+%2C+Abeokuta%2C\"",
+    "Location": "37 Olorunsogo , Abiola way , Abeokuta, "
+  },
+  {
+    "State": "Oyo",
+    "LGA": "Ibadan South-East",
+    "Name": "Bovas Oyo",
+    "Address": "\"https://maps.google.com/?q=+Ijokodo+Retail+Outlet%2C+Poly+Road%2C+Ibadan%2C+Oyo+State\"",
+    "Location": "Ijokodo Retail Outlet, Poly Road, Ibadan, Oyo State "
+  },
+  {
+    "State": "Oyo",
+    "LGA": "Ibadan North",
+    "Name": "Bovas Oyo",
+    "Address": "\"https://maps.google.com/?q=Akobo+1+Retail+Outlet%2C+Along+Ojurin%2C+Akala+Estate%2C+Akobo%2C+Ibadan%2C+Oyo+State\"",
+    "Location": "Akobo 1 Retail Outlet, Along Ojurin, Akala Estate, Akobo, Ibadan, Oyo State "
+  },
+  {
+    "State": "Kwara",
+    "LGA": "Ilorin East",
+    "Name": "Bovas Kwara",
+    "Address": "\"https://maps.google.com/?q=Tanke+Retail+Outlet%2C+Tanke+Road%2C+Ilorin%2C+Kwara+State\"",
+    "Location": "Tanke Retail Outlet, Tanke Road, Ilorin, Kwara State "
+  },
+  {
+    "State": "Kwara",
+    "LGA": "Ilorin East",
+    "Name": "Bovas Kwara",
+    "Address": "\"https://maps.google.com/?q=Yidi+Retail+Outlet%2C+Yidi+Road%2C+Ilorin%2C+Kwara+State\"",
+    "Location": "Yidi Retail Outlet, Yidi Road, Ilorin, Kwara State "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Epe",
+    "Name": "Ibile Oil &amp; Gas - Lagos State Technical &amp; Vocational Education Board",
+    "Address": "\"https://maps.google.com/?q=Government+Technical+College%2C+Epe+%0D%0A\"",
+    "Location": "Government Technical College, Epe "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Yasin Express Logistics Ltd",
+    "Address": "\"https://maps.google.com/?q=Plot+136%2C+Beside+Mabushi+Ultra+Modern+Market+Jahi+District+Abuja\"",
+    "Location": "Plot 136, Beside Mabushi Ultra Modern Market Jahi District Abuja "
+  },
+  {
+    "State": "Kwara",
+    "LGA": "Ilorin South",
+    "Name": "Yasin Express Logistics Ltd",
+    "Address": "\"https://maps.google.com/?q=Building+Beside+Abdulsalam%2C+Ajelanwa+street%2C+Ita+Alamu%2C+Along+Ajase+Ipo+Road%2C+Ilorin.\"",
+    "Location": "Building Beside Abdulsalam, Ajelanwa street, Ita Alamu, Along Ajase Ipo Road, Ilorin. "
+  },
+  {
+    "State": "Kogi",
+    "LGA": "Lokoja",
+    "Name": "Automotive Gas Nigeria Services Limited (Autogas Nigeria) - Mosba PJ Global Limited",
+    "Address": "\"https://maps.google.com/?q=8%2C+Old+Okene+Kabba+Road+Opp+Peelink+Electroworld%2C+Beside+Union+Bank%2C+Lokoja%0D%0A\"",
+    "Location": "8, Old Okene Kabba Road Opp Peelink Electroworld, Beside Union Bank, Lokoja "
+  },
+  {
+    "State": "Kogi",
+    "LGA": "Lokoja",
+    "Name": "Lokoja Mega Terminal",
+    "Address": "\"https://maps.google.com/?q=Lokoja+-+Okene+Express+way+%2C+Lokoja%2C+Kogi+State%0D%0A%0D%0A\"",
+    "Location": "Lokoja - Okene Express way , Lokoja, Kogi State "
+  },
+  {
+    "State": "Ekiti",
+    "LGA": "Ado Ekiti",
+    "Name": "ABG Oil and Gas Limited Ekiti",
+    "Address": "\"https://maps.google.com/?q=P7F5%2B24G%2C+Ifaki+Road%2C+Iworoko+362103%2C+Opposite+Broadcastiong+Service+of++Ekiti+State+Headquaters%2C+Ekiti+State%0D%0A\"",
+    "Location": "P7F5+24G, Ifaki Road, Iworoko 362103, Opposite Broadcastiong Service of Ekiti State Headquaters, Ekiti State "
+  },
+  {
+    "State": "Ekiti",
+    "LGA": "Ado Ekiti",
+    "Name": "National Automotive Design and Development Council Automotive Training Centre - Ado Ekiti",
+    "Address": "\"https://maps.google.com/?q=Ado-Ekiti%2FKm5+Ilawe+Road%2C+Near+Fresh+Water+International+School%2C+Ado+Ekiti%0D%0A\"",
+    "Location": "Ado-Ekiti/Km5 Ilawe Road, Near Fresh Water International School, Ado Ekiti "
+  },
+  {
+    "State": "Ekiti",
+    "LGA": "Ado Ekiti",
+    "Name": "Femoyor Auto Service ",
+    "Address": "\"https://maps.google.com/?q=Sedakay+filling+station%2C+Opposite+RRS+Basiri+Road%2C+Ado+Ekiti%0D%0A\"",
+    "Location": "Sedakay filling station, Opposite RRS Basiri Road, Ado Ekiti "
+  },
+  {
+    "State": "Ekiti",
+    "LGA": "Ado Ekiti",
+    "Name": "Bengine Universal Nigeria Limited",
+    "Address": "\"https://maps.google.com/?q=Block+B%2C+Plot+22%2C+Egbewa+GRA+Extension%2C+NTA+Road%2C+Ado+-+Ekiti%2C+Ekiti+State\"",
+    "Location": "Block B, Plot 22, Egbewa GRA Extension, NTA Road, Ado - Ekiti, Ekiti State "
+  },
+  {
+    "State": "Ekiti",
+    "LGA": "Ado Ekiti",
+    "Name": "Bovas",
+    "Address": "\"https://maps.google.com/?q=Bovas+Ado+3+retail+outlet%2C+Poly+road%2C+Ado%2C+Ekiti+State.%0D%0A\"",
+    "Location": "Bovas Ado 3 retail outlet, Poly road, Ado, Ekiti State. "
+  },
+  {
+    "State": "Ekiti",
+    "LGA": "Ado Ekiti",
+    "Name": "Modail Oil &amp; Gas Ltsd",
+    "Address": "\"https://maps.google.com/?q=Afe+Babalola+University+Road%2C+Ado+Ekiti%2C+Ekiti%0D%0A\"",
+    "Location": "Afe Babalola University Road, Ado Ekiti, Ekiti "
+  },
+  {
+    "State": "Ekiti",
+    "LGA": "Ado Ekiti",
+    "Name": "Baseline Petroleum &amp; Chemical Company Nig Ltd ",
+    "Address": "\"https://maps.google.com/?q=Km+1%2C+Agbado+Riad+Ode-Ekiti%2C+Ekiti%0D%0A\"",
+    "Location": "Km 1, Agbado Riad Ode-Ekiti, Ekiti "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "ABG Oil and Gas Limited Katampe",
+    "Address": "\"https://maps.google.com/?q=Afdin+Filling+Station%2C+Nnamdi+Azikiwe+Expressway%2C+Katampe%0D%0A\"",
+    "Location": "Afdin Filling Station, Nnamdi Azikiwe Expressway, Katampe "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Ikeja",
+    "Name": "Verde Dynamo",
+    "Address": "\"https://maps.google.com/?q=4%2F6+Kudirat+Abiola+Way%2C+Alausa%2C+Ikeja%2C+Lagos+%0D%0A\"",
+    "Location": "4/6 Kudirat Abiola Way, Alausa, Ikeja, Lagos "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Techsavvy Consult Limited",
+    "Address": "\"https://maps.google.com/?q=Deidei+%E2%80%93+Zuba+Expressway%2C+Abuja+Municipal+Area+Council%2C+Abuja+-+FCT%0D%0A\"",
+    "Location": "Deidei \u2013 Zuba Expressway, Abuja Municipal Area Council, Abuja - FCT "
+  },
+  {
+    "State": "Akwa Ibom",
+    "LGA": "Abak",
+    "Name": "Nsik Oil and Gas Company Limited",
+    "Address": "\"https://maps.google.com/?q=Plot+36%2C+Itam+Industrial+Layout%2C+Uyo%2C+AKTC+Terminal%2C+Akwa+Ibom+State\"",
+    "Location": "Plot 36, Itam Industrial Layout, Uyo, AKTC Terminal, Akwa Ibom State "
+  },
+  {
+    "State": "Akwa Ibom",
+    "LGA": "Uyo",
+    "Name": "Standard Institute of Technology",
+    "Address": "\"https://maps.google.com/?q=KM+4%2C+Uyo+-+Abak+Road%2C+Uyo%2C+Akwa+Ibom+State\"",
+    "Location": "KM 4, Uyo - Abak Road, Uyo, Akwa Ibom State "
+  },
+  {
+    "State": "Akwa Ibom",
+    "LGA": "Uyo",
+    "Name": "Absolute Project Global Energy Ltd",
+    "Address": "\"https://maps.google.com/?q=KM+12%2C+Airport+Road%2C+Ifa+Ikot+Akpan+Etoi+Uyo%2C+Akwa+Ibom+State+\"",
+    "Location": "KM 12, Airport Road, Ifa Ikot Akpan Etoi Uyo, Akwa Ibom State "
+  },
+  {
+    "State": "Edo",
+    "LGA": "Akoko-Edo",
+    "Name": "Blue Stone Gas and Power Limited Edo",
+    "Address": "\"https://maps.google.com/?q=Airport+Road%2C+Benin%2C+Edo+State+\"",
+    "Location": "Airport Road, Benin, Edo State "
+  },
+  {
+    "State": "Cross River",
+    "LGA": "Calabar Municipal",
+    "Name": "Blue Stone Gas and Power Limited Cross-River",
+    "Address": "\"https://maps.google.com/?q=Cross+River+State+Fabrication+Academy%2C+Calabar++\"",
+    "Location": "Cross River State Fabrication Academy, Calabar "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Ikorodu",
+    "Name": "Ibile Oil &amp; Gas - Lagos State Technical &amp; Vocational Education Board",
+    "Address": "\"https://maps.google.com/?q=Government+Technical+College%2C+Ikorodu+%0D%0A\"",
+    "Location": "Government Technical College, Ikorodu "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Amuwo-Odofin",
+    "Name": "Ibile Oil &amp; Gas - Lagos State Technical &amp; Vocational Education Board",
+    "Address": "\"https://maps.google.com/?q=Government+technical+College%2C+Ado-Soba%0D%0A\"",
+    "Location": "Government technical College, Ado-Soba "
+  },
+  {
+    "State": "Delta",
+    "LGA": "Ughelli South",
+    "Name": "Automotive Gas Nigeria Services Limited (Autogas Nigeria) - Floritech Motors",
+    "Address": "\"https://maps.google.com/?q=Opp+Plantation+City%2C+Opete+Road+by+Otokutu+Junction+DSC+Expressway%2C+Ughelli-South%0D%0A\"",
+    "Location": "Opp Plantation City, Opete Road by Otokutu Junction DSC Expressway, Ughelli-South "
+  },
+  {
+    "State": "Edo",
+    "LGA": "Akoko-Edo",
+    "Name": "Negus Energy And Engineering Services Limited, Edo",
+    "Address": "\"https://maps.google.com/?q=NO+480+Upper+Sakpoba+Road%2C+Off+Sapele%2C+By+Adesuwa+Junction+Benin+City%2C+Edo+State\"",
+    "Location": "NO 480 Upper Sakpoba Road, Off Sapele, By Adesuwa Junction Benin City, Edo State "
+  },
+  {
+    "State": "Delta",
+    "LGA": "Aniocha North",
+    "Name": "Negus Energy And Engineering Services Limited, Delta",
+    "Address": "\"https://maps.google.com/?q=NO.+3+Agric+Road%2C+Efugrin+GRA%2C+Warri%2C+Delta+State.%0D%0A\"",
+    "Location": "NO. 3 Agric Road, Efugrin GRA, Warri, Delta State. "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Alimosho",
+    "Name": "Mide Premium Oil &amp; Gas LTD",
+    "Address": "\"https://maps.google.com/?q=Along+Ikotun-Ijegun+Road%2C+Alimosho+LGA%2C+Ikotun+Lagos%0D%0A\"",
+    "Location": "Along Ikotun-Ijegun Road, Alimosho LGA, Ikotun Lagos "
+  },
+  {
+    "State": "Kwara",
+    "LGA": "Ilorin South",
+    "Name": "Lanre Shittu Motors NG LTD",
+    "Address": "\"https://maps.google.com/?q=Ilorin+Office%2C+Asa+Dam+Road%2C+Ilorin%2C+Kwara+State%0D%0A\"",
+    "Location": "Ilorin Office, Asa Dam Road, Ilorin, Kwara State "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Kaura Motors Nigeria Limited",
+    "Address": "\"https://maps.google.com/?q=Plot+1110%2C+Zone+A00%2C+Central+Business+Area%2C+Beside+NNRA%2C+Adjacent+Environment+House%2C+Abuja%2C+FCT.%0D%0A\"",
+    "Location": "Plot 1110, Zone A00, Central Business Area, Beside NNRA, Adjacent Environment House, Abuja, FCT. "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Epe",
+    "Name": "Paradigm Creations Limited",
+    "Address": "\"https://maps.google.com/?q=Km43+Lekki+-+Epe+Express+%2C+Olokonla+Ajah.+Lagos%0D%0A\"",
+    "Location": "Km43 Lekki - Epe Express , Olokonla Ajah. Lagos "
+  },
+  {
+    "State": "Lagos",
+    "LGA": "Ibeju-Lekki",
+    "Name": "Cowerie Global Company Limited",
+    "Address": "\"https://maps.google.com/?q=Igando+Oloja%2C+Ibeju+Lekki%2C+Lagos%0D%0A\"",
+    "Location": "Igando Oloja, Ibeju Lekki, Lagos "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Hartplan Nigeria Limited ",
+    "Address": "\"https://maps.google.com/?q=Plot+501%2C+Idu+Industrial+Layout%2C+Idu+Yard%2C+Abuja\"",
+    "Location": "Plot 501, Idu Industrial Layout, Idu Yard, Abuja "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "D.D Hi-Tech Auto &amp; CNG Solutions",
+    "Address": "\"https://maps.google.com/?q=Filling+Station+Opposite+ATTEC+shopping+mall+by+Custom+Barrack+Junction%2C+Gudaba%2C+kuje%2C+FCT+Abuja\"",
+    "Location": "Filling Station Opposite ATTEC shopping mall by Custom Barrack Junction, Gudaba, kuje, FCT Abuja "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Baseline + Johnson Nig Ltd",
+    "Address": "\"https://maps.google.com/?q=Plot+964+Lugbe+Extention%2C+Airport+Road%2C+Lugbe+Abuja\"",
+    "Location": "Plot 964 Lugbe Extention, Airport Road, Lugbe Abuja "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Afriks Limited",
+    "Address": "\"https://maps.google.com/?q=Saddi+Kemil+Petrol+Station%2C+Opposite+ShopRite+Lugbe%2C+Abuja\"",
+    "Location": "Saddi Kemil Petrol Station, Opposite ShopRite Lugbe, Abuja "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Engage Empower Educate Initiative",
+    "Address": "\"https://maps.google.com/?q=Ibwas+Oil+and+Gas%2C+Along+Kubwa+Express+Road+%2CAbuja.\"",
+    "Location": "Ibwas Oil and Gas, Along Kubwa Express Road ,Abuja. "
+  },
+  {
+    "State": "Oyo",
+    "LGA": "Ibarapa North",
+    "Name": "Ecogreen Tech Renewable Energy",
+    "Address": "\"https://maps.google.com/?q=MRS+Filling+Station%2C+Bodija+Market%2C+Bodija%2C+Ibadan+North+West%2C+Ibadan%2C+Oyo+State%2C+Nigeria\"",
+    "Location": "MRS Filling Station, Bodija Market, Bodija, Ibadan North West, Ibadan, Oyo State, Nigeria "
+  },
+  {
+    "State": "Enugu",
+    "LGA": "Enugu North",
+    "Name": "Ceedac Consulting Ltd",
+    "Address": "\"https://maps.google.com/?q=57+Ziks+Avenue+Uwani+Enugu+State\"",
+    "Location": "57 Ziks Avenue Uwani Enugu State "
+  },
+  {
+    "State": "Akwa Ibom",
+    "LGA": "Uyo",
+    "Name": "Ceedac Consulting Ltd",
+    "Address": "\"https://maps.google.com/?q=Amatua+Global+Filling+Station%2C+NO.31+Idoro+Road+Uyo%2C+Akwa+Ibom+State+\"",
+    "Location": "Amatua Global Filling Station, NO.31 Idoro Road Uyo, Akwa Ibom State "
+  },
+  {
+    "State": "Abia",
+    "LGA": "Umuahia North",
+    "Name": "Ceedac Consulting Ltd",
+    "Address": "\"https://maps.google.com/?q=KM+13%2C+Atta+Hampet+Junction+Ibeku+Umuahia+Abia+State\"",
+    "Location": "KM 13, Atta Hampet Junction Ibeku Umuahia Abia State "
+  },
+  {
+    "State": "Ebonyi",
+    "LGA": "Abakaliki",
+    "Name": "Ceedac Consulting Ltd",
+    "Address": "\"https://maps.google.com/?q=NO.+38+Ogoja+Road+Abakaliki%2C+Ebonyi+State\"",
+    "Location": "NO. 38 Ogoja Road Abakaliki, Ebonyi State "
+  },
+  {
+    "State": "Oyo",
+    "LGA": "Afijio",
+    "Name": "Motor Genius Car Repair Limited ",
+    "Address": "\"https://maps.google.com/?q=Sango+Eleyele+Express+road%2C+Arometa+bus-stop\"",
+    "Location": "Sango Eleyele Express road, Arometa bus-stop "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Luftreiber Automobile",
+    "Address": "\"https://maps.google.com/?q=Luftreiber+Automobile%2C+Plot+125%2C+Ahmadu+Bello+Way%2C+Opp+Rano+Air%2C+Jahi%2C+Abuja\"",
+    "Location": "Luftreiber Automobile, Plot 125, Ahmadu Bello Way, Opp Rano Air, Jahi, Abuja "
+  },
+  {
+    "State": "Delta",
+    "LGA": "Uvwie",
+    "Name": "Dandani Gas Limited",
+    "Address": "\"https://maps.google.com/?q=135+Refinery+Road%2C+KM3%2C+Opposite+Navy+Air+Base+Station%2C+Effurun%2C+Uvwie%2C+Delta+State\"",
+    "Location": "135 Refinery Road, KM3, Opposite Navy Air Base Station, Effurun, Uvwie, Delta State "
+  },
+  {
+    "State": "Delta",
+    "LGA": "Aniocha South",
+    "Name": "Negus Energy and Engineering Services Limited",
+    "Address": "\"https://maps.google.com/?q=18%2C+Old+Site+Mechanic+Village%2C+Asaba%2C+Delta+State\"",
+    "Location": "18, Old Site Mechanic Village, Asaba, Delta State "
+  },
+  {
+    "State": "Kaduna",
+    "LGA": "Kaduna North",
+    "Name": "Attayseer Autogas Nig Ltd",
+    "Address": "\"https://maps.google.com/?q=NO+1%2C+Gulf+Club+Cross+Road%2C+Al-Mansur+Motors+Marafa+Kaduna%2C+Kaduna+State.+\"",
+    "Location": "NO 1, Gulf Club Cross Road, Al-Mansur Motors Marafa Kaduna, Kaduna State. "
+  },
+  {
+    "State": "FCT",
+    "LGA": "Municipal Area Council",
+    "Name": "Hi-Grade Energies Limited",
+    "Address": "\"https://maps.google.com/?q=Arish+Mall+Zuba+Opposite+Enyo+Filling+Station+Along+Kaduna+Expressway%2C+Abuja%0D%0A\"",
+    "Location": "Arish Mall Zuba Opposite Enyo Filling Station Along Kaduna Expressway, Abuja "
+  },
+  {
+    "State": "Kaduna",
+    "LGA": "Kaduna South",
+    "Name": "Yasin Express Logistics Limited",
+    "Address": "\"https://maps.google.com/?q=NO+17+Nnamdi+Azikwe+Express+Bye-pass%2C+Kurmi+Mashi%2C+Kaduna\"",
+    "Location": "NO 17 Nnamdi Azikwe Express Bye-pass, Kurmi Mashi, Kaduna "
+  }
+]
